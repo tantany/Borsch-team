@@ -7,4 +7,5 @@
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
   background-color: #F2F7FD;
+  max-width: 425px;
 }
