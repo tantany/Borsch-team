@@ -1,6 +1,8 @@
 .card__image {
-  width: 94px;
-  height: 77px;
+  width: max-content;
+  background-size: cover;
   margin: 0 auto 22px;
-  overflow: hidden;
+  max-width: 122px;
+  height: max-content;
+  object-fit: cover;
 }
