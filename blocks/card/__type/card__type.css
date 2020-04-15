@@ -1,0 +1,10 @@
+.card__type {
+  font-weight: bold;
+  font-size: 8px;
+  line-height: 10px;
+  letter-spacing: 0.055em;
+  text-transform: uppercase;
+  color: #A9AEE5;
+  margin: 0;
+  margin-bottom: 7px;
+}

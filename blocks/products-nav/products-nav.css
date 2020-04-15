@@ -1,0 +1,9 @@
+@import url(./__link/products-nav__link.css);
+@import url(./__link/_active/products-nav__link_active.css);
+
+.products-nav {
+  display: flex;
+  overflow: hidden;
+  padding-top: 47px;
+  padding-left: 20px;
+}
