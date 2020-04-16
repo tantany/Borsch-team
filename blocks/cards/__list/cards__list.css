@@ -1,0 +1,9 @@
+.cards__list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards__list:nth-of-type(1) {
+  margin-right: 15px;
+}

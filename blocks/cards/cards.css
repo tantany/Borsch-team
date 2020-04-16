@@ -1,0 +1,6 @@
+@import url(./__list/cards__list.css);
+
+.cards {
+  display: flex;
+  margin: 27px 20px 0;
+}
