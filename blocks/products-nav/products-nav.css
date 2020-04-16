@@ -4,6 +4,11 @@
 .products-nav {
   display: flex;
   overflow: scroll;
+  overflow-y: hidden;
   padding-top: 47px;
   padding-left: 20px;
+}
+
+.products-nav::-webkit-scrollbar {
+  width: 10px;
 }
