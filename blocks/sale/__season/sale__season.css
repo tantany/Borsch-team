@@ -1,0 +1,12 @@
+.sale__season {
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 34px;
+  text-align: center;
+  letter-spacing: 0.375em;
+  text-transform: uppercase;
+  color: #FFF;
+  flex-basis: 100%;
+  margin: 0;
+  margin-bottom: 23px;
+}

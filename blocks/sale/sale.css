@@ -1,0 +1,17 @@
+@import url(./__description/sale__description.css);
+@import url(./__season/sale__season.css);
+@import url(./__subtitle/sale__subtitle.css);
+@import url(./__title/sale__title.css);
+
+.sale {
+  background: #F87A64;
+  mix-blend-mode: luminosity;
+  box-shadow: 0px 2px 4px rgba(25, 38, 73, 0.14), -2px -2px 4px #FFFFFF, inset 2px 2px 3px #FFB1A3, inset -2px -2px 5px #C0523C;
+  background-image: url(../../images/mask-group.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  max-width: 216px;
+  min-width: 162px;
+  padding: 0;
+}
