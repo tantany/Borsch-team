@@ -1,7 +1,7 @@
 .card__image {
   width: max-content;
   background-size: cover;
-  margin: 0 auto 22px;
+  margin: 0 auto;
   max-width: 122px;
   height: max-content;
   object-fit: cover;
