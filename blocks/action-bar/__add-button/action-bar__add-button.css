@@ -1,0 +1,12 @@
+.action-bar__add-button {
+  background-image: url(../../../images/middle-button.png);
+  background-position: center;
+  background-size: 79px;
+  width: 70px;
+  height: 70px;
+  padding: 0;
+  border: 0;
+  background-color: unset;
+  margin: auto;
+  display: block;
+}
