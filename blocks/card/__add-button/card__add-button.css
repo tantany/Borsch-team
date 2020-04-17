@@ -1,14 +1,8 @@
 .card__add-button {
-  background-image: url(../../../images/plus-icon.svg);
   height: 24px;
   width: 24px;
   background-color: unset;
   border: 0;
   margin-right: 20px;
-  transition: opacity 0.3s linear;
-  opacity: 1;
-}
-
-.card__add-button:hover {
-  opacity: 0.5;
+  padding: 0;
 }

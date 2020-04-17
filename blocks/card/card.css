@@ -4,7 +4,6 @@
 @import url(./__title/card__title.css);
 @import url(./__type/card__type.css);
 @import url(./__add-button/card__add-button.css);
-@import url(./__link/card__link.css);
 @import url(./__shadow/card__shadow.css);
 
 .card {
@@ -14,10 +13,7 @@
   border-radius: 26px;
   max-width: 184px;
   margin-top: 15px;
-  opacity: 1;
-  transition: transform 0.3s linear;
-}
-
-.card:hover {
-  transform: scale(1.03);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
