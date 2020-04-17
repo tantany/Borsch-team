@@ -8,6 +8,12 @@
 @import url(./__amount-number/product__amount-number.css);
 @import url(./__price/product__price.css);
 @import url(./__description/product__description.css);
+@import url(./__icon/product__icon.css);
+@import url(./__list/product__list.css);
+@import url(./__list-item/product__list-item.css);
+@import url(./__menu-bar/product__menu-bar.css);
+@import url(./__add-button/product__add-button.css);
+@import url(./__list-item/_not-empty/product__icon_not-empty.css);
 
 .product {
   margin-top: 50px;
