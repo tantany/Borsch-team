@@ -1,0 +1,14 @@
+@import url(./__image/product__image.css);
+@import url(./__info/product__info.css);
+@import url(./__name/product__name.css);
+@import url(./__amount/product__amount.css);
+@import url(./__amount-btn/product__amount-btn.css);
+@import url(./__amount-btn/_type/product__amount-btn_type_increase.css);
+@import url(./__amount-btn/_type/product__amount-btn_type_decrease.css);
+@import url(./__amount-number/product__amount-number.css);
+@import url(./__price/product__price.css);
+@import url(./__description/product__description.css);
+
+.product {
+  margin-top: 50px;
+}
