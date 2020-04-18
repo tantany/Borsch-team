@@ -11,3 +11,6 @@ This is the best ever app for food purchasing you'll ever have!
 ### The site was build using the languages:
 - HTML
 - CSS
+
+#### Link to the site:
+https://tantany.github.io/Borsch-team/
