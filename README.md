@@ -12,5 +12,5 @@ This is the best ever app for food purchasing you'll ever have!
 - HTML
 - CSS
 
-#### Link to the site:
+#### Link to the website:
 https://tantany.github.io/Borsch-team/
