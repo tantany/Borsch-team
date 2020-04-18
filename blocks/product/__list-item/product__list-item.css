@@ -1,6 +1,6 @@
 .product__list-item {
   list-style: none;
-  margin-right: 12%;
+  margin-right: 10%;
   position: relative;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .product__list-item:nth-child(2n) {
-  margin-right: 44%;
+  margin-right: 39%;
 }
 
 .product__list-item:last-of-type {
