@@ -1,0 +1,10 @@
+.product__name {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  color: #ff7c63;
+  padding: 40px 0 0 0;
+  margin: 0 0 0 30px;
+  width: 100%;
+}

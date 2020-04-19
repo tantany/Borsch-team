@@ -1,0 +1,10 @@
+.card__description {
+  font-weight: normal;
+  font-size: 9px;
+  line-height: 1.51;
+  color: rgba(26, 31, 150, 0.6);
+  margin: 0;
+  margin-bottom: 14px;
+  margin-left: 20px;
+  width: 71%;
+}

@@ -1,0 +1,5 @@
+.products-nav__link_active {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #FF7D64;
+}

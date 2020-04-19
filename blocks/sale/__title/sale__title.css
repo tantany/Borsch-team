@@ -1,0 +1,10 @@
+.sale__title {
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 67px;
+  text-align: center;
+  color: #FFF;
+  flex-basis: 100%;
+  margin: 0;
+  margin-bottom: -2px;
+}

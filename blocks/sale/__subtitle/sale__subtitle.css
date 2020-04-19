@@ -1,0 +1,13 @@
+.sale__subtitle {
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 1.86;
+  text-align: center;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: rgba(255, 255, 255, 0.61);
+  flex-basis: 100%;
+  margin: 0;
+  margin-top: 24px;
+  margin-bottom: -11px;
+}

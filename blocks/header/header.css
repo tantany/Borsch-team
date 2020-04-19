@@ -1,0 +1,11 @@
+@import url(./__btn/header__btn.css);
+@import url(./__btn/_type/header__btn_type_menu.css);
+@import url(./__btn/_type/header__btn_type_search.css);
+@import url(./__btn/_type/header__btn_type_back.css);
+@import url(./__btn/_type/header__btn_type_favorite.css);
+
+.header {
+  margin: 34px 20px 0;
+  display: flex;
+  justify-content: space-between;
+}

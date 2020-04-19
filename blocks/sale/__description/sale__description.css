@@ -1,0 +1,9 @@
+.sale__description {
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  text-align: center;
+  color: rgba(255, 255, 255, 0.61);
+  flex-basis: 100%;
+  margin: 0;
+}

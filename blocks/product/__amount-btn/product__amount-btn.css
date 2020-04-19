@@ -1,0 +1,14 @@
+.product__amount-btn {
+  background-color: #fff;
+  border: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+}
+
+.product__amount-btn:hover {
+  cursor: pointer;
+}
